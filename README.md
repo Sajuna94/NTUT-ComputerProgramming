@@ -8,6 +8,7 @@
 
 **Login NTUT VPN**
 ```
+vpn: vpn.ntut.edu.tw
 Account: Your student ID
 Password: Your Taipei Tech student portal password
 ```
