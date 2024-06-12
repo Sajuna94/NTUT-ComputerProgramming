@@ -2,9 +2,9 @@
 
 
 
-# Homework Submission (NTUT VPN required)
+# Homework Submission 
 
-- [Submission Portal](https://140.124.181.26/upload/Login) 
+- [Submission Portal](https://140.124.181.26/upload/Login) (NTUT VPN required)
 ```
 Username: Your student ID
 Password: Your Self Password Setting
