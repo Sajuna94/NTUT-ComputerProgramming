@@ -6,6 +6,6 @@
 ## VPN Required for Accessing Certain Links
 > Please note that accessing certain links within Jong-Yih Kuo's website requires connecting via GlobalProtect VPN.
 ```
-- **Account**: Your student ID
-- **Password**: Your Taipei Tech student portal password
+Account: Your student ID
+Password: Your Taipei Tech student portal password
 ```
