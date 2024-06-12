@@ -1,7 +1,16 @@
 # [Jong-Yih Kuo's Programming Design II Website](https://sites.google.com/mail.ntut.edu.tw/jong-yih-kuo/programming-design-ii)
 
-# GlobalProtect VPN Access (NTUT student account required)
+## GlobalProtect VPN Access
 > Please note that certain links within Jong-Yih Kuo's website require connection through GlobalProtect VPN.
+
+
+# Homework Submission (NTUT VPN required)
+
+- [Submission Portal](https://140.124.181.26/upload/Login) 
+```
+Username: Your student ID
+Password: Your Self Password Setting
+```
 
 **NTUT VPN Login Information**
 ```
@@ -14,9 +23,5 @@ Password: Your Taipei Tech student portal password
 - [Download NTUT-SSL VPN](https://vpn.ntut.edu.tw/global-protect/login.esp)
 ---
 
-# Homework Submission
-- [Submission Portal](https://140.124.181.26/upload/Login) 
-```
-Username: Your student ID
-Password: Your Self Password Setting
-```
+
+(NTUT student account required)
