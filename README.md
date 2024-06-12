@@ -2,7 +2,7 @@
 
 
 
-# Homework Submission 
+## Homework Submission 
 
 - [Submission Portal](https://140.124.181.26/upload/Login) (NTUT VPN required)
 ```
@@ -22,6 +22,3 @@ Password: Your Taipei Tech student portal password
 **Download GlobalProtect VPN**
 - [Download NTUT-SSL VPN](https://vpn.ntut.edu.tw/global-protect/login.esp)
 ---
-
-
-(NTUT student account required)
