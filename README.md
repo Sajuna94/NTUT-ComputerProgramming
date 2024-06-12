@@ -12,3 +12,11 @@ Password: Your Taipei Tech student portal password
 
 **Download GlobalProtect VPN**
 - [NTUT-SSL VPN](https://vpn.ntut.edu.tw/global-protect/login.esp)
+---
+
+## Hand In HomeWork
+- [Login](https://140.124.181.26/upload/Login) That need NTUT student account
+```
+Username: Your student ID
+Password: Your Self Password Setting
+```
