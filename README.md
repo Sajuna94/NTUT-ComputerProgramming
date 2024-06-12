@@ -3,7 +3,6 @@
 
 
 ## GlobalProtect VPN Credentials
-## VPN Required for Accessing Certain Links
 > Please note that accessing certain links within Jong-Yih Kuo's website requires connecting via GlobalProtect VPN.
 
 **Login NTUT VPN**
