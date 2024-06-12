@@ -2,7 +2,7 @@
 
 ## GlobalProtect
 ```
-  Account: `student ID`
-  Password: `Taipei Teach student Portal`
+  Account: (student ID)
+  Password: (Taipei Teach student Portal)
 ```
 ---
