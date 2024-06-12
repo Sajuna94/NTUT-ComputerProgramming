@@ -1,4 +1,4 @@
-```
+```c
 typedef struct {
     char **words;
     int length;
