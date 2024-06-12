@@ -1,8 +1,8 @@
 # [Jong-Yih Kuo](https://sites.google.com/mail.ntut.edu.tw/jong-yih-kuo/programming-design-ii)
 
-## GlobalProtect
-```
-  Account: (student ID)
-  Password: (Taipei Teach student Portal)
-```
----
+## Access Instructions
+To access Jong-Yih Kuo's website, please connect via GlobalProtect VPN.
+
+### GlobalProtect VPN Credentials
+- **Account**: Your student ID
+- **Password**: Your Taipei Tech student portal password
