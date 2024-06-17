@@ -1,2 +1,2 @@
-## use vscode to compiler
+# Use vscode to compiler
 > This project has not been finished.
